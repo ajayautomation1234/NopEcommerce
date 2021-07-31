@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34841" started-at="2021-07-31T15:38:25 IST" finished-at="2021-07-31T15:39:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34841" started-at="2021-07-31T15:38:25 IST" finished-at="2021-07-31T15:39:00 IST">
+      <class name="com.NopEcommerce.Testcase.TC_Login_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.NopEcommerce.Testcase.TC_Login_002@7a30d1e6]" name="setup" is-config="true" duration-ms="5081" started-at="2021-07-31T15:38:45 IST" finished-at="2021-07-31T15:38:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login_feature()[pri:0, instance:com.NopEcommerce.Testcase.TC_Login_002@7a30d1e6]" name="login_feature" duration-ms="9644" started-at="2021-07-31T15:38:50 IST" finished-at="2021-07-31T15:39:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_feature -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.NopEcommerce.Testcase.TC_Login_002@7a30d1e6]" name="teardown" is-config="true" duration-ms="223" started-at="2021-07-31T15:39:00 IST" finished-at="2021-07-31T15:39:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NopEcommerce.Testcase.TC_Login_002 -->
+      <class name="com.NopEcommerce.Testcase.TC_Register_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.NopEcommerce.Testcase.TC_Register_001@7b69c6ba]" name="setup" is-config="true" duration-ms="6735" started-at="2021-07-31T15:38:25 IST" finished-at="2021-07-31T15:38:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="register()[pri:0, instance:com.NopEcommerce.Testcase.TC_Register_001@7b69c6ba]" name="register" duration-ms="8765" started-at="2021-07-31T15:38:32 IST" finished-at="2021-07-31T15:38:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.NopEcommerce.Testcase.TC_Register_001@7b69c6ba]" name="teardown" is-config="true" duration-ms="4322" started-at="2021-07-31T15:38:41 IST" finished-at="2021-07-31T15:38:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NopEcommerce.Testcase.TC_Register_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
